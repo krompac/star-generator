@@ -1,13 +1,3 @@
-img {
-  position: fixed;
-  left: 55px;
-  width: 150px;
-}
-
-.nekaj {
-  clip-path: inset(0 50% 0 0);
-}
-
 button {
   width: 120px;
 }
